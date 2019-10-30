@@ -5,3 +5,6 @@ master-copy-after
 master-copy-after2
 after
 master-copy-after
+before
+master-before
+master-before2
